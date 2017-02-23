@@ -15,7 +15,8 @@ public class DespliegueApp {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic hereffffg
+        
+        System.out.println("Hola mundo Java");
     }
     
 }
